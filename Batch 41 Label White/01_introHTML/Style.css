@@ -1,0 +1,25 @@
+* {
+    background-color: #2600fd;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.Titulo{
+   font-size: 60px;
+}
+
+img {
+    width: 250px;
+}
+
+.fuenteGrande {
+    font-size: 15px;
+    color: honeydew;
+}
+
+a {
+    text-decoration: none;
+    color: seashell;
+}
