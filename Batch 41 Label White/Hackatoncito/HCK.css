@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+
+.tituloprincipal{
+    font-family: 'Piedra', cursive;
+    font-size:  4.25rem;
+    color: rgb(238, 17, 17)
+}
+.padre{
+    justify-content: space-evenly;
+    background-color:#EBE4D1
+}
+.tituloprim{
+    margin-left: 184px;
+    color: white;
+}
+.tituloemp{
+    margin-left: 100px;
+    color: white;
+}
+.estilo{
+        background-color:white      ;
+        height: 500px;
+}
+.plomero{
+    width: 251px;
+}
+.backtarjetas{
+background-color:#EBE4D1;
+}
+.usuarios{
+    width: 500px
+}
+h5{
+    text-align: center;
+}

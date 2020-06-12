@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+
+.my-container{
+    height: 700px;
+}
+
+.my-row{
+    height: 350px;
+}
+.my-botton{
+
+
+}
+.my-col{
+height: 350px;
+}
+.my-image{
+    width: 250px;
+    height: 300px;
+}h1{
+    text-align: center;
+    font-family: 'Piedra', cursive;
+}

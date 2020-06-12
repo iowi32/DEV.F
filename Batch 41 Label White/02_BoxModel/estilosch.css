@@ -4,14 +4,24 @@ img{
     margin-left: 515px;
 }
 .box {
-    border:5px;
-    margin-top: 15px;
-    margin-left: 1208px;
+    display: flex;
+    margin-left: 5px;
 }
 a{
     text-decoration:none;
     color: grey;
 }
 .Search{
-margin-left: 560px;
+    display: flex;
+    justify-content: center;
+    border: solid rgb(255, 0, 0) 2px;
+}
+.EFE{
+    display: flex;
+    border: rgb(255, 0, 0) 2px solid;
+    justify-content: center;
+}
+button{
+    background-color: blue;
+    color: rgb(253, 253, 253);
 }
